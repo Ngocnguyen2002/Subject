@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5554b3a4-9edd-4f93-b6df-4c684e843e47)MÔN HỌC: PHÁT TRIỂN HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ
+MÔN HỌC: PHÁT TRIỂN HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ
 
 ĐỀ TÀI: PHÁT TRIỂN WEBSITE THƯƠNG MẠI ĐIỆN TỬ VỀ MỸ PHẨM
 Ngôn ngữ và công cụ lập trình sử dụng trong đề tài:
